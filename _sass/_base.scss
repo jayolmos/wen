@@ -40,6 +40,7 @@ p {
     font-size: 16px;
     line-height: 1.5;
     margin-bottom: 20px;
+    color: #2b1034;
 }
 
 .bg-primary {
@@ -157,7 +158,7 @@ header {
     background-position: center;
     background-image: url('../img/header.jpg');
     text-align: center;
-    color: #2b1034;
+    color: white;
     .header-content {
         position: relative;
         text-align: center;
@@ -209,6 +210,7 @@ header {
 
 .section-heading {
     margin-top: 0;
+    color:#2b1034;
 }
 
 .service-box {
