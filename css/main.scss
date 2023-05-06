@@ -34,8 +34,10 @@ $grey-color:       #939597;
 // }
 
 // variables.less
-$theme-primary:#F5DF4D;
-$theme-dark: #939597;
+// $theme-primary:#F5DF4D;
+// $theme-dark: #939597;
+$theme-primary: teal;
+$theme-dark: #f5fde1;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
